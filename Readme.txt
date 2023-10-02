@@ -1,0 +1,1 @@
+Here is solution of All 5 task of Data Science internship of Code Soft
